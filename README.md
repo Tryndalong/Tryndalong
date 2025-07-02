@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 👋 Hi, I’m @Tryndalong
+- 👀 I’m interested in AI Agent
+- 🌱 I’m currently learning AI/LLM
+- 💞️ I’m looking to collaborate on anyone.
+- 📫 send me an email dragonljl599[at]gmail.com
